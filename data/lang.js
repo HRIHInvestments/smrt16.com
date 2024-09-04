@@ -137,7 +137,7 @@ Partners of the SMTR16 project are highly motivated to engage in marketing - aft
     "itsYourPage": "It's Your page",
     "somebody": "random account",
     "sellTitle": "Your referral link",
-    "sellFooter": `The link consists of the https://smrt16.co.za - the domain of the DApp concatenated by '/' with the address of your wallet. 
+    "sellFooter": `The link consists of the https://smrt16.co.za/ - the domain of the DApp concatenated by '/' with the address of your wallet. 
         Note: that your referral bonuses is limited with your SMRT16 balance.`,
     "copyToClipboard": "Copy Link",
     "copiedToClipboad": "Copied",
